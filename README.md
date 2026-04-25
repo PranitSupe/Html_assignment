@@ -1,9 +1,8 @@
 
-# HTML Daily Practice 🚀
+# HTML Practice 🚀
 
 ![HTML](https://img.shields.io/badge/Language-HTML-orange)
 ![Status](https://img.shields.io/badge/Status-Learning-blue)
-![Practice](https://img.shields.io/badge/Practice-Daily-success)
 ![Beginner](https://img.shields.io/badge/Level-Beginner-green)
 
 📌 Perfect for absolute beginners in web development
